@@ -4,9 +4,9 @@ Neste repositório é armazenado todos documentos desenvolvidos para a conclusã
 
 ## Códigos e Tecnologias desenvolvidas para a criação do aplicativo
    - Front-end: Parte do código onde é desenvolvido o layout geral da aplicação.
-    - Link do repositório: https://github.com/MiguelAleixo/service-advisor-app
+        - Link do repositório: https://github.com/MiguelAleixo/service-advisor-app
    - Back-end: Parte do código desenvolvido para manusear dados e informações.
-    - Link do repositório: https://github.com/MiguelAleixo/service-advisor-api
+        - Link do repositório: https://github.com/MiguelAleixo/service-advisor-api
 
 ## Descrição de pastas
 

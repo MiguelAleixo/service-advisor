@@ -1,15 +1,18 @@
 # Repositório - Service Advisor
 
-Neste repositório é armazenado todos documentos desenvolvidos para a conclusão do projeto denominado *Service Advisor*.
+Neste repositório é armazenado todos documentos desenvolvidos para a conclusão do projeto intitulado *Service Advisor*.
+
+## Código: Tecnologias desenvolvidas para a criação do aplicativo
+   - Back-end: Parte do código desenvolvido para manusear dados e informações.
+    - Link do repositório: https://github.com/MiguelAleixo/service-advisor-api
+   - Front-end: Parte do código onde é desenvolvido o layout geral da aplicação.
+    - Link do repositório: https://github.com/MiguelAleixo/service-advisor-app
 
 ## Descrição de pastas
 
-As pastas são fragmentadas da seguinte maneira:
+As pastas são fragmentadas da seguinte forma:
 
  - Aplicação: Documentos relacionados à aplicação.
-    - Código: Tecnologias desenvolvidas para a criação do aplicativo.
-        - Back-end: Parte do código desenvolvido para manusear dados e informações.
-        - Front-end: Parte do código onde é desenvolvido o layout geral da aplicação.
     - Telas: PrintScreens das telas do aplicativo já em funcionamento.
  - Documentação: Serie de documentos desenvolvidos para inicializar o projeto,  jutamente com seus formatos.
     - 5W1H: PDF e XLSX.

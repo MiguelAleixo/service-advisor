@@ -15,7 +15,7 @@ As pastas são fragmentadas da seguinte forma:
  - Aplicação: Documentos relacionados à aplicação.
     - Telas: PrintScreens das telas do aplicativo já em funcionamento.
  - Documentação: Serie de documentos desenvolvidos para inicializar o projeto,  jutamente com seus formatos.
-    - 5W1H: PDF e XLSX.
+    - 5W2H: PDF e XLSX.
     - BPMN: PDF, PNG e BPM.
     - Canvas: PDF e PNG.
     - Diagramas: 

@@ -14,6 +14,8 @@ As pastas são fragmentadas da seguinte forma:
 
  - Aplicação: Documentos relacionados à aplicação.
     - Telas: PrintScreens das telas do aplicativo já em funcionamento.
+ - Artigo: Artigo do Trabalho de Conclusão de Curso.
+    - SERVICE ADVISOR - ARTIGO DE TCC: PDF.
  - Documentação: Serie de documentos desenvolvidos para inicializar o projeto,  jutamente com seus formatos.
     - 5W2H: PDF e XLSX.
     - BPMN: PDF, PNG e BPM.
